@@ -60,7 +60,7 @@ var Rds = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(Rds, amazon.Amazon);
+util.inherits(Rds, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js
