@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-rds",
-    "description" : "NodeJS module to talk to Amazon Relational Database Service (RDS).",
+    "description" : "AwsSum plugin for Amazon Relational Database Service (RDS).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-rds.js",
